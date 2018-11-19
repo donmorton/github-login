@@ -4,7 +4,7 @@
 
 React component for [GitHub login](https://developer.github.com/v3/oauth/).
 
-This project originally created and maintained by [Checkr](https://www.npmjs.com/package/react-github-login). However, after over a year of inactivity it appears this repository is abandoned. With many issues open, I decided to clone and edit this repo for myself. 
+This project originally created and maintained by [Checkr](https://www.npmjs.com/package/react-github-login). However, after over a year of inactivity it appears this repository is abandoned. With many issues open, I decided to clone and maintain this repo myself. 
 
 This project is now being updated and maintained by [donmorton](https://github.com/donmorton)
 

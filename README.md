@@ -1,6 +1,6 @@
 # React GitHub Login
 
-![NPM](https://img.shields.io/npm/v/react-github-login.svg?style=flat)
+![NPM](https://img.shields.io/npm/v/github-login.svg?style=flat)
 
 React component for [GitHub login](https://developer.github.com/v3/oauth/).
 

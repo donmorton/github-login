@@ -13,7 +13,7 @@ This project is now being updated and maintained by [donmorton](https://github.c
 ```js
 import React from 'react';
 import ReactDOM from 'react-dom';
-import GitHubLogin from 'react-github-login';
+import GitHubLogin from 'github-login';
 
 const onSuccess = response => console.log(response);
 const onFailure = response => console.error(response);

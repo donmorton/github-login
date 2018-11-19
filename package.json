@@ -1,5 +1,5 @@
 {
-  "name": "react-github-login",
+  "name": "github-login",
   "version": "1.0.3",
   "description": "A React Component for GitHub Login",
   "main": "dist/GitHubLogin.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/checkr/react-github-login.git"
+    "url": "https://github.com/donmorton/github-login"
   },
   "keywords": [
     "react",

@@ -18,7 +18,10 @@
     "reactjs",
     "react-component",
     "github-login",
-    "react-github-login"
+    "react-github-login",
+    "github",
+    "login",
+    "component"
   ],
   "license": "MIT",
   "peerDependencies": {

@@ -1,6 +1,7 @@
 # React GitHub Login
 
 ![NPM](https://img.shields.io/npm/v/github-login.svg?style=flat)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdonmorton%2Fgithub-login.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdonmorton%2Fgithub-login?ref=badge_shield)
 
 React component for [GitHub login](https://developer.github.com/v3/oauth/).
 
@@ -86,3 +87,7 @@ $ npm start
 ```
 
 Webpack development server starts at [http://localhost:8080](http://localhost:8080), loading [example/index.html](github.com/checkr/react-facebook-login/tree/master/example/index.html).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdonmorton%2Fgithub-login.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdonmorton%2Fgithub-login?ref=badge_large)

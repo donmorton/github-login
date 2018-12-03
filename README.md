@@ -1,6 +1,7 @@
 # React GitHub Login
 
 ![NPM](https://img.shields.io/npm/v/github-login.svg?style=flat)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1cc6efd5d9174487b35296df925885ad)](https://app.codacy.com/app/donmorton/github-login?utm_source=github.com&utm_medium=referral&utm_content=donmorton/github-login&utm_campaign=Badge_Grade_Dashboard)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdonmorton%2Fgithub-login.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdonmorton%2Fgithub-login?ref=badge_shield)
 
 React component for [GitHub login](https://developer.github.com/v3/oauth/).
